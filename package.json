@@ -1,0 +1,26 @@
+{
+  "name": "rumi-cafe-francis-street",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Rumi Cafe, 28 Francis Street, Dublin 8 — Your perfect little pause.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4192",
+    "upscale": "~/anaconda3/bin/python3 scripts/upscale.py",
+    "logo": "~/anaconda3/bin/python3 scripts/clean-logo.py",
+    "images": "node scripts/build-images.mjs",
+    "fonts": "~/anaconda3/bin/python3 scripts/subset-fonts.py",
+    "map": "~/anaconda3/bin/python3 scripts/build-map.py",
+    "qa": "node scripts/qa.mjs"
+  },
+  "engines": {
+    "node": ">=20.10"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.64.0",
+    "sharp": "^0.33.5",
+    "vite": "^6.4.4"
+  }
+}

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.vercel/
+.DS_Store
+.playwright-mcp/
+
+# design references from the kit (third-party inspiration, not ours to publish)
+00-referencias/
+
+# generated intermediates (re-created by npm run upscale / logo)
+assets-src/upscaled/
+qa/out/
+assets-src/osm/area.osm
+qa/*.log

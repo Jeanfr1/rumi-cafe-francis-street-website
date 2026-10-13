@@ -1,0 +1,170 @@
+[
+  {
+    "path": "00-referencias/01-referencia.png",
+    "kind": "reference",
+    "bytes": 2612124,
+    "sha256": "39b7e2dbf57a54ef95a6f770ff33d022e7ff7673cb2aaccd785ff0ba030e7dc9"
+  },
+  {
+    "path": "00-referencias/02-referencia.png",
+    "kind": "reference",
+    "bytes": 1004369,
+    "sha256": "8cd3c3faa2109d47a71d8a97b5da5942331ab5c893fc295d3b5289ad9b060382"
+  },
+  {
+    "path": "00-referencias/03-referencia.png",
+    "kind": "reference",
+    "bytes": 1194422,
+    "sha256": "029404cc4f735492800f8100e8df7f3024a95adfcd67811550258fc0cf717c45"
+  },
+  {
+    "path": "00-referencias/04-referencia.png",
+    "kind": "reference",
+    "bytes": 1584593,
+    "sha256": "c3ab23186a271bf3b036e6a0f8de204aee124397e879f11358cf85107305ee74"
+  },
+  {
+    "path": "00-referencias/05-referencia.png",
+    "kind": "reference",
+    "bytes": 1604618,
+    "sha256": "d5e0323201592de16e51ed81827452c672c5b4c569f9b59f9477e30c332b7039"
+  },
+  {
+    "path": "01-identidade/rumi-logo-dourada-transparente.png",
+    "kind": "logo-reconstruction",
+    "bytes": 573914,
+    "sha256": "5bc39fac4ae66ceed50c8e2ecdab583cd37718e1ff1ace7ff1c8587cc70ec618"
+  },
+  {
+    "path": "02-direcao/modelo-01-aprovado.png",
+    "kind": "reference",
+    "bytes": 2662035,
+    "sha256": "90872cc444acbb2f672d5603ae18cab7be04e83a62ede4d627a912c871c03c96"
+  },
+  {
+    "path": "03-hero/hero-desktop-sem-texto.png",
+    "kind": "campaign",
+    "bytes": 2396192,
+    "sha256": "a1aa8f48b4b8204833fdb3386a0c8204a8c6a2fe50e50e7fa9d128255f0a038d"
+  },
+  {
+    "path": "03-hero/hero-mobile-original.png",
+    "kind": "web-original",
+    "bytes": 1442987,
+    "sha256": "2c4164570d78212f65665dc40b7d2597507c3b335193a9d38747ba55a779c52d"
+  },
+  {
+    "path": "04-fotos-originais/ambiente.png",
+    "kind": "original-source",
+    "bytes": 1402991,
+    "sha256": "09ac6864064227c2dcfc150f5d95e0f2081640fc10860c51486d5e9a789cb849"
+  },
+  {
+    "path": "04-fotos-originais/balcao.png",
+    "kind": "original-source",
+    "bytes": 1297253,
+    "sha256": "1b7a2e72de5d9aa49b740fea75aedc0fc2a7936094f1837f0da6b105dea300e4"
+  },
+  {
+    "path": "04-fotos-originais/cafes-e-doces.png",
+    "kind": "original-source",
+    "bytes": 1442987,
+    "sha256": "2c4164570d78212f65665dc40b7d2597507c3b335193a9d38747ba55a779c52d"
+  },
+  {
+    "path": "04-fotos-originais/copo-logo.png",
+    "kind": "original-source",
+    "bytes": 883644,
+    "sha256": "54e3fd70bea78da2dbaf4e49a95aa5fcac6f459d32021223feefe722f9bf3a2c"
+  },
+  {
+    "path": "04-fotos-originais/fachada.png",
+    "kind": "original-source",
+    "bytes": 2279943,
+    "sha256": "7962d4e9ddbdac699e90fb3cb8f5ba9773390b98d1cbbf9b91212b2da392312a"
+  },
+  {
+    "path": "04-fotos-originais/instagram-identidade.png",
+    "kind": "original-source",
+    "bytes": 2263825,
+    "sha256": "939e0b852cbd1cb972e729db9d914ec4b0d0f9567251efabf47103a095c06065"
+  },
+  {
+    "path": "05-assets-web/ambiente.webp",
+    "kind": "web-original",
+    "bytes": 186006,
+    "sha256": "c34cf922d8194ef48cb9e4552e4e3244b6dbf8fa4ebbc8c26a7cdd581ff4f68c"
+  },
+  {
+    "path": "05-assets-web/balcao.webp",
+    "kind": "web-original",
+    "bytes": 178046,
+    "sha256": "1271328973bbc2810bb4e4bea8cb011eeb398b21b414fced153caf95d96b25de"
+  },
+  {
+    "path": "05-assets-web/cafes-e-doces.webp",
+    "kind": "web-original",
+    "bytes": 186678,
+    "sha256": "efe47190657398a0c9a8d25a67fd743c13a9c45fe35dbdf8a46453524c5ba703"
+  },
+  {
+    "path": "05-assets-web/copo-logo.webp",
+    "kind": "web-original",
+    "bytes": 63322,
+    "sha256": "7107155990ce0000f8b8e751ab6dc4a8e4fa8397325fd13b1159196e2e7c6666"
+  },
+  {
+    "path": "05-assets-web/fachada.webp",
+    "kind": "web-original",
+    "bytes": 292844,
+    "sha256": "ab8a279d1cf2876149522a57f615852c2ca69ad3e4adac1a7d0ae305f0cebb94"
+  },
+  {
+    "path": "05-assets-web/hero-desktop.webp",
+    "kind": "campaign",
+    "bytes": 321180,
+    "sha256": "d2d3a34ce96243a848cf98d8ec10187b7692ecdd067c8b35fb9f7d8b13617ea8"
+  },
+  {
+    "path": "08-estudo/fonts/RumiDisplay.woff",
+    "kind": "font",
+    "bytes": 72456,
+    "sha256": "a7b4332b169f9f4ddd4e8fe33044f7b3b39cad866148d85d994a750dc8a1d302"
+  },
+  {
+    "path": "08-estudo/fonts/RumiEditorial-Italic.woff",
+    "kind": "font",
+    "bytes": 76884,
+    "sha256": "9f477874a356b0b6ce2f8518379a415f841d341d7b7e7df313cca6b833c2cbbe"
+  },
+  {
+    "path": "08-estudo/fonts/RumiSans.woff",
+    "kind": "font",
+    "bytes": 60912,
+    "sha256": "1f7891314cc612779cac528ef90d1f2161233edabeb59682024a07b48e63ba74"
+  },
+  {
+    "path": "11-maquetes/desktop-1440.png",
+    "kind": "illustrative-composition",
+    "bytes": 8494674,
+    "sha256": "017a18403c925e3184d8ce42dd04a303a14c57ed01e5971985e2b23adfe91805"
+  },
+  {
+    "path": "11-maquetes/mobile-390.png",
+    "kind": "illustrative-composition",
+    "bytes": 2298958,
+    "sha256": "a143aaf4072b14c5bcd8bcf739fc13c3e3aa5a2371314e0900114108227e634a"
+  },
+  {
+    "path": "06-roteiros/storyboard.png",
+    "kind": "illustrative-composition",
+    "bytes": 497767,
+    "sha256": "a909be6cf89f34368377b47b9029778e6d07184193df710de842e977000736fc"
+  },
+  {
+    "path": "06-roteiros/abertura-preview.mp4",
+    "kind": "illustrative-composition",
+    "bytes": 220651,
+    "sha256": "d41986f37eea80bbe2475049d514eb7609364a283101a5a24e62bda668d1aaf2"
+  }
+]

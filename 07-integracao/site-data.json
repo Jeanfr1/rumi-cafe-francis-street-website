@@ -1,0 +1,22 @@
+{
+  "brand": "Rumi Cafe",
+  "project": "Francis Street",
+  "language": "en-IE",
+  "address": "28 Francis Street, Dublin 8",
+  "instagram": "https://www.instagram.com/rumicafedublin/",
+  "directions": "https://www.google.com/maps/search/?api=1&query=Rumi%20Cafe%2028%20Francis%20Street%20Dublin",
+  "hours": null,
+  "prices": null,
+  "phone": null,
+  "menuPdf": null,
+  "openingHoursStatus": "awaiting owner confirmation; Sunday truncated in source",
+  "palette": {
+    "teal": "#267B8D",
+    "tealDeep": "#103E49",
+    "gold": "#D6B76E",
+    "paper": "#F4EDDE",
+    "coffee": "#241D18",
+    "white": "#FFF8E9"
+  },
+  "approvedModel": "01 - O ritual do cafe"
+}

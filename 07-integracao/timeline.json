@@ -1,0 +1,45 @@
+{
+  "durationMs": 2850,
+  "loop": false,
+  "scrollLock": false,
+  "audio": false,
+  "reducedMotion": "final static frame",
+  "hero": [
+    {
+      "start": 0,
+      "end": 850,
+      "layer": "photo",
+      "fromScale": 1.035,
+      "toScale": 1
+    },
+    {
+      "start": 150,
+      "end": 1600,
+      "layer": "steam",
+      "effect": "draw-rise-fade"
+    },
+    {
+      "start": 450,
+      "end": 1350,
+      "layer": "headline",
+      "translateY": 18
+    },
+    {
+      "start": 1000,
+      "end": 2550,
+      "layer": "rumi-strokes",
+      "effect": "draw"
+    },
+    {
+      "start": 2200,
+      "end": 2850,
+      "layer": "logo-png",
+      "effect": "crossfade"
+    }
+  ],
+  "scroll": {
+    "photoMaxOffsetPx": 24,
+    "paperTranslatePx": 26,
+    "paperDurationMs": 650
+  }
+}
