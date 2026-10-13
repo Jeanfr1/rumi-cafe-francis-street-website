@@ -12,3 +12,4 @@ assets-src/upscaled/
 qa/out/
 assets-src/osm/area.osm
 qa/*.log
+.vercel
